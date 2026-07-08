@@ -19,4 +19,3 @@ The design is developed by analyzing five published research papers and adapting
 
 ## Authors
 - Risalat Bin Mostofa
-- Rifah Tasnin Talukder
